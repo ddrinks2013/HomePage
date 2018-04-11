@@ -1,0 +1,33 @@
+body
+{
+   color: #000000;
+}
+
+table.header
+{
+   font-weight: bold;
+   text-align: center;
+}
+
+.head
+{
+   font-weight: bold;
+   font-size: 20px;
+}
+
+div.border .container
+{
+   position: relative;
+   margin: auto;
+   top: 20px;
+   width: 95%;
+}
+
+div.border
+{
+   background: #FFFFFF;
+   width: 100%;
+   border: 2px solid;
+   border-radius: 10px;
+}
+
